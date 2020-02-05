@@ -3,15 +3,11 @@
 
 ## 기본정보
 
-현근무처: 하포리서치코리아
-
-직무 및 직책: Vice President of Production/Quant dev., 프로덕션팀 매니저, 데이터시각화 헤드
-
-최종학력: 고려대학교 건축사회환경공학과 졸업(2008.03 ~ 2015.02)
-
-Email: phaesoo@gmail.com
-
-Github: https://github.com/phaesoo
+- 현근무처: 하포리서치코리아
+- 직무 및 직책: Vice President of Production/Quant dev., 프로덕션팀 매니저, 데이터시각화 헤드
+- 최종학력: 고려대학교 건축사회환경공학과 졸업(2008.03 ~ 2015.02)
+- Email: phaesoo@gmail.com
+- Github: https://github.com/phaesoo
 
 
 ## 보유기술 상세
@@ -47,8 +43,13 @@ Github: https://github.com/phaesoo
 
 ### 하포리서치코리아 (2017.07 ~)
 
-프로덕션팀
-- 금융배치자동화 서버 및 도구 개발
+최종 직급/직무 및 부서
+- 직급: Vice President in Production/Quantitave Development
+- 직책: 프로덕션 팀 매니저
+- 소속: 프로덕션 팀
+
+프로덕션
+- Socket기반 금융배치 자동화 서버 및 관련툴 개발
 - 실시간 금융 모니터링 및 관련툴 개발
 
 데이터시각화
@@ -58,16 +59,22 @@ Github: https://github.com/phaesoo
 데브옵스
 - 원격서버 실시간 모니터링 및 장애대응
 - 사내 AWS 서비스 관리자
-- 사내 데이터센터 AWS Cloud migration 수행
+- 사내 데이터센터 AWS Cloud migration 수행(IaC with Terraform)
+- EC2, RDS, EFS, S3 서비스 사용경험
 
 데이터분석
 - 데이서 정제/분석 및 가공 업무
 
 ### 마이다스아이티 (2014.07 ~ 2014.12)
 
+최종 직급/직무 및 부서
+- 직급: 사원
+- 직무: 소프트웨어 엔지니어
+- 부서: 설계개발팀
+
 설계개발팀
-- MFC(C++) 프레임워크 기반 건축물 구조 설계 솔루션 개발
+- MFC(C++) 프레임워크 기반 건축물 모델링 및 설계 Windows 어플리케이션 개발
+- 구조설계 알고리즘 개발 및 검증
 - 사용자 시나리오 분석 및 UI구성 기획/개발
 - 신제품위주 개발 참여(nGen, Foundation, Plant)
 - googleTest를 활용한 TDD도입
-
