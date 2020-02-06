@@ -66,7 +66,7 @@ DevOps
 Data model research
 - Data analysis and processing
 
-### Midas IT (2014.07 ~ 2014.12)
+### Midas IT (2014.07 ~ 2017.07)
 
 Architectural structural software
 
