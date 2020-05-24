@@ -41,7 +41,19 @@ Source maintanence
 
 ## Work Experience
 
-### Haafor Research Korea (2017.07 ~)
+### Kasa Korea (2020.04 ~ )
+
+Exchange for real estate DABS(Digital Asset Backed Securities)
+
+Position/Team
+- Position: Backend Engineer
+- Team: Backend team
+
+Server development
+- Develop server with Django
+
+
+### Haafor Research Korea (2017.07 ~ 2020.04)
 
 Research-oriented investment advisory company with its headquarters in Singapore
 
@@ -68,7 +80,7 @@ Data model research
 
 ### Midas IT (2014.07 ~ 2017.07)
 
-Architectural structural software
+Develop software for simulating and automating architectural design 
 
 Final Position/Team
 - Position: Software engineer

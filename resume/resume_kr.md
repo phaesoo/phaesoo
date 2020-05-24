@@ -3,7 +3,7 @@
 
 ## 기본정보
 
-- 현근무처: 하포리서치코리아
+- 현근무처: 카사코리아
 - 직무 및 직책: Vice President of Production/Quant dev., 프로덕션팀 매니저, 데이터시각화 헤드
 - 최종학력: 고려대학교 건축사회환경공학과 졸업(2008.03 ~ 2015.02)
 - Email: phaesoo@gmail.com
@@ -14,12 +14,12 @@
 
 프로그래밍 언어
 
-- 주: Python, C/C++ 
-- 보조: Javascript/HTML/CSS
-- 관심: Rust, Go
+- 주: Python, C/C++
+- 보조: Go, Javascript/HTML/CSS
+- 관심: Rust
 
 프레임워크
-- Backend: Flask, Django, Express.js
+- Backend: Django, Flask, Express.js
 - Frontend: React.js, Vue.js
 - Windows app: MFC(C++)
 
@@ -41,7 +41,18 @@
 
 ## 경력 요약
 
-### 하포리서치코리아 (2017.07 ~)
+### 카사코리아 (2020.04 ~ )
+
+부동산 유동화 증권 거래 플랫폼
+
+직급/직무 및 부서
+- 직책: 백엔드 소프트웨어 엔지니어
+- 소속: 백엔드 팀
+
+백엔드 개발
+- Django 서버 개발
+
+### 하포리서치코리아 (2017.07 ~ 2020.04)
 
 최종 직급/직무 및 부서
 - 직급: Vice President in Production/Quantitave Development
@@ -66,6 +77,8 @@
 - 데이서 정제/분석 및 가공 업무
 
 ### 마이다스아이티 (2014.07 ~ 2017.07)
+
+구조설계시스템 시뮬레이션 및 자동화 소프트웨어 개발
 
 최종 직급/직무 및 부서
 - 직급: 사원
