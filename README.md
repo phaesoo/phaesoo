@@ -1,9 +1,1 @@
-# Me
-
-Introduce myself as a Software Engineer
-
-Repository for my personal records
-
-## Navigator
-
-- /resume : Resume
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/phaesoo/github-readme-stats)
